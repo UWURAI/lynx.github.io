@@ -1,0 +1,20 @@
+
+body {
+    background-image: url(../images/XIQunrP3VaY.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+  }
+  article {
+    background-color: #cfcc9e;
+    line-height: 125%;
+    text-indent: 12%;
+   }
+   p {
+    text-align: center;
+}
+a {
+    background: #b092d8;
+   }
+   aside {
+    background: #d3d892;
+   }
